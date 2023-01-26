@@ -1,0 +1,17 @@
+﻿<Window x:Class="tarotgodon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tarotgodon"
+        mc:Ignorable="d"
+        Title="Tarot Godon" Height="450" Width="800">
+    <Grid>
+    <Label>Test 1 carte</Label>
+    <Image Source="C:\Users\chris\source\repos\tarotgodon\images\amoureux.gif"/>
+<!-- 
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72">
+            Bienvenue!
+        </TextBlock>         -->
+    </Grid>
+</Window>
